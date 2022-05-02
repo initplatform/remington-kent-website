@@ -1,0 +1,19 @@
+// 
+// Project styles
+// 
+
+// This file is intentionally blank
+// Use this file to override SCSS within the project, or to add new SCSS
+// for creating your own CSS components
+
+.navbar-brand {
+    font-size: 2rem !important;
+    img {
+        height: 2rem !important;
+    }
+}
+
+.title-font {
+    font-weight: 500;
+    font-family: 'Tinos', serif;
+}
